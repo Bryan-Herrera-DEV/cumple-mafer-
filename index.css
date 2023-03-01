@@ -247,10 +247,8 @@ p.secondary {
   line-height: 25px;
   text-overflow: clip;
   font-family: source sans pro;
-  display: -webkit-box;
   -webkit-line-clamp: 4;
   -webkit-box-orient: vertical;
-  overflow: hidden;
 }
 .text-muted,
 i.pr-1 {
